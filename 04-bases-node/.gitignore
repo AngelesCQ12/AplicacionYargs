@@ -1,0 +1,5 @@
+# //exluiter pdf
+*.pdf 
+# //exluiir txt
+*.txt 
+node_modules/
